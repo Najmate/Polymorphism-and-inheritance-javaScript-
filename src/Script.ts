@@ -4,8 +4,8 @@ import { Preguica } from "./Preguica";
 import { ICanRun } from "./ICanRun";
 import { ICanTree } from "./ICanTree";
 
-const cavalo = new Cavalo('Alazão', 12, 'Bruuuuuff...')
-const cachorro = new Cachorro('totó', 6,'Au, Au, Auuu...')
+const cavalo = new Cavalo('Corcel Indomável', 7, 'Hiin in in...')
+const cachorro = new Cachorro('Titico', 14,'Auu, Auuu...')
 const preguica = new Preguica('Preguiça', 3, 'hainn, hainn...')
 
 function takeoff(animal : ICanTree) {
