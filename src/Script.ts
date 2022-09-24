@@ -6,7 +6,7 @@ import { ICanTree } from "./ICanTree";
 
 const cavalo = new Cavalo('Corcel Indomável', 7, 'Hiin in in...')
 const cachorro = new Cachorro('Titico', 14,'Auu, Auuu...')
-const preguica = new Preguica('Preguiça', 3, 'hainn, hainn...')
+const preguica = new Preguica('Preguiça', 4, 'aih, aih... aih')
 
 function takeoff(animal : ICanTree) {
     animal.subir()
